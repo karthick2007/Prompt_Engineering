@@ -5,7 +5,7 @@
 `Prompt-AA-11`
 
 #### Description:
-`Custom Chatbot to support Javascript programming questions`
+`This document helps to leverage zero shot prompting technique to improve chatbot experience`
 
 #### Use Case:
 `Javascript chatbot to build Web applications`
@@ -19,7 +19,7 @@
 `[e.g., React,Angular ,Vue]`
 
 #### Parameters:
-`Temperature, Max Tokens, etc.`
+`temperature=0.7 ,max_tokens=256,top_p=1,frequency_penalty=0,presence_penalty=0`
 
 #### Sample Output:
 `Sure! Here's a simple example of how you can create a login form in React:
